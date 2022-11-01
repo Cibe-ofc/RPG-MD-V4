@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/_pahilz26'
+global.sig = 'https://instagram.com/znxphoenix'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6287833306677'
+global.sgc = 'https://chat.whatsapp.com/B6NS1pwwv1s6Bf7ZrIv2Q2'
+global.swa = 'wa.me/6285797375014'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '087833306677'
+global.pdana = '-'
 global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '087833306677'
+global.pgopay = '085797375014'
+global.ppulsa = '085797375014'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.psaweria = 'https://sociabuzz.com/aic'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '087852161042'
-global.nomorown = '6287833306677'
-global.namebot = 'Fahil-Botzラ'
-global.nameown = 'ᴹᴿ᭄ Fahil ×፝֟͜×'
+global.nomorbot = '085797375014'
+global.nomorown = '6285797375014'
+global.namebot = 'KPy'
+global.nameown = '𝐄𝐭𝐞𝐬'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287833306677', 'ᴹᴿ᭄ Fahil ×፝֟͜×', 'true']
+  ['6285797375014', 'Etes', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Fahil-Botzラ | By ᴹᴿ᭄ Fahil ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ Fahil ×፝֟͜×'
-global.wm3 = 'Wangsaf-Botzラ | By ᴹᴿ᭄ Fahil ×፝֟͜×'
+global.wm = 'KPyBotz | By Etes' //Main Watermark
+global.wm2 = 'Etes'
+global.wm3 = 'Wangsaf-Botzラ | By KpyXetsz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Fahil-Botzラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄  Wangsaf Botz X By Fahil ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ Dibuat oleh Fahil X Botz ×፝֟͜×'
+global.titlebot = `KPyBotz| ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄  Wangsaf Botz X By KpY' 
+global.packname = 'ᴹᴿ᭄ Dibuat oleh KpY Botz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
@@ -119,10 +119,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Khurushi BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄  RɪᴇʟʟXᴅ X Wᴀʜʏᴜ ᴀɴɪᴍᴇᴋ ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ Fahil ×፝֟͜×'
-global.umurowner = '18'
-global.asalowner = 'Jatim, Madura'
-global.nomorowner = 'wa.me/6287833306677'
+global.nameowner = 'Etes Xkpy'
+global.umurowner = '23'
+global.asalowner = 'Jabar, Cirebon'
+global.nomorowner = 'wa.me/6285797375014'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
@@ -371,8 +371,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By Fahil'
-global.stickauth = ` instagram : @_pahilz26`
+global.stickpack = 'By Kpybotz'
+global.stickauth = ` instagram : @znxphoenix`
 
 global.multiplier = 38 // The higher, The harder levelup
 
