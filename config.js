@@ -36,7 +36,7 @@ global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '085797375014'
 global.povo = '-'
 global.pgopay = '085797375014'
 global.ppulsa = '085797375014'
@@ -101,7 +101,7 @@ global.wm2 = 'Etes'
 global.wm3 = 'Wangsaf-Botzラ | By KpyXetsz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `KPyBotz| ʙ1%Humanʏ ${global.nameown}`
+global.titlebot = `KPyBotz| ʙʏ 𝐞𝐭𝐬 ${global.nameown}`
 global.author = 'ᴹᴿ᭄  Wangsaf Botz X By KpY' 
 global.packname = 'ᴹᴿ᭄ Dibuat oleh KpY Botz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
@@ -120,8 +120,8 @@ global.botintro = 'Hallo, Kenalin saya Khurushi BOT Saya akan membantu Anda kapa
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'Etes Xkpy'
-global.umurowner = '23'
-global.asalowner = 'Jabar, Cirebon'
+global.umurowner = '1000'
+global.asalowner = 'Jabar, Mars'
 global.nomorowner = 'wa.me/6285797375014'
 global.pacarowner = 'Kepo amat sih;v'
 
