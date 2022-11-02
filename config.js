@@ -37,10 +37,10 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
 global.pdana = '085797375014'
-global.povo = '-'
+global.povo = '085797375014'
 global.pgopay = '085797375014'
 global.ppulsa = '085797375014'
-global.ppulsa2 = '-'
+global.ppulsa2 = '085797375014'
 global.psaweria = 'https://sociabuzz.com/aic'
 
 /*============== NOMOR ==============*/
@@ -52,7 +52,7 @@ global.nameown = '𝐄𝐭𝐞𝐬'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285797375014', 'Etes', 'true']
+  ['6285797375014','Etes', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,7 +116,7 @@ global.thumbs = ['https://telegra.ph/file/df3dca9e1a9364db3abce.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Khurushi BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄  RɪᴇʟʟXᴅ X Wᴀʜʏᴜ ᴀɴɪᴍᴇᴋ ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya Khurushi BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄  𝐄𝐓𝐒𝐊𝐏𝐘* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'Etes Xkpy'
