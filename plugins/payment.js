@@ -14,7 +14,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┏━ꕥ〔 *Donasi • Dana* 〕ꕥ━⬣
 ┃✾ Gopay  [085797375014]
 ┃✾ Dana  [083892969926]
-┃✾ Saweria  [chat owner]
+┃✾ Saweria  [https://sociabuzz.com/aic]
 ┗━━━━ꕥ
 ┏━━ꕥ〔 *NOTE* 〕ꕥ━⬣
 ┃ Ingin donasi? Wa.me/6285797375014
