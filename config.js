@@ -30,23 +30,23 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://instagram.com/znxphoenix'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/B6NS1pwwv1s6Bf7ZrIv2Q2'
+global.sgc = 'https://chat.whatsapp.com/GduQSOuZ6p41HH8uQ4tFJD'
 global.swa = 'wa.me/6285797375014'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085797375014'
-global.povo = '085797375014'
+global.pdana = '083892969926'
+global.povo = '083892969926'
 global.pgopay = '085797375014'
 global.ppulsa = '085797375014'
-global.ppulsa2 = '085797375014'
+global.ppulsa2 = '083892969926'
 global.psaweria = 'https://sociabuzz.com/aic'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '085797375014'
+global.nomorbot = '083892969926'
 global.nomorown = '6285797375014'
-global.namebot = 'KPy'
+global.namebot = '𝐊𝐘'
 global.nameown = '𝐄𝐭𝐞𝐬'
 
 
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'KPyBotz | By Etes' //Main Watermark
-global.wm2 = 'Etes'
-global.wm3 = 'Wangsaf-Botzラ | By KpyXetsz'
+global.wm = '𝐄𝐭𝐞𝐬𝐁𝐨𝐭𝐳 | 𝐛𝐲 𝐄𝐭𝐞𝐬' //Main Watermark
+global.wm2 = '𝐄𝐭𝐞𝐬'
+global.wm3 = 'Wangsaf-Botzラ | 𝐛𝐲 𝐄𝐭𝐞𝐬'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `KPyBotz| ʙʏ 𝐞𝐭𝐬 ${global.nameown}`
-global.author = 'ᴹᴿ᭄  Wangsaf Botz X By KpY' 
-global.packname = 'ᴹᴿ᭄ Dibuat oleh KpY Botz'
+global.titlebot = `𝐄𝐭𝐞𝐬𝐁𝐨𝐭𝐳| ʙʏ 𝐞𝐭𝐬 ${global.nameown}`
+global.author = 'ᴹᴿ᭄  Wangsaf Botz X By 𝐄𝐭𝐞𝐬' 
+global.packname = 'ᴹᴿ᭄ Dibuat oleh Etes-Botz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
@@ -119,7 +119,7 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Khurushi BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄  𝐄𝐓𝐒𝐊𝐏𝐘* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Etes Xkpy'
+global.nameowner = 'KY'
 global.umurowner = '1000'
 global.asalowner = 'Jabar, Mars'
 global.nomorowner = 'wa.me/6285797375014'
@@ -371,7 +371,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By Kpybotz'
+global.stickpack = 'By Etesbotz'
 global.stickauth = ` instagram : @znxphoenix`
 
 global.multiplier = 38 // The higher, The harder levelup
