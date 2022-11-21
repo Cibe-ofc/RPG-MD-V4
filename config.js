@@ -44,10 +44,10 @@ global.ppulsa2 = '083892969926'
 global.psaweria = 'https://sociabuzz.com/aic'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '083892969926'
+global.nomorbot = '0838929699266'
 global.nomorown = '6285797375014'
-global.namebot = '𝐊𝐘'
-global.nameown = '𝐄𝐭𝐞𝐬'
+global.namebot = 'King'
+global.nameown = 'KingBotz'
 
 
 /*============== STAFF ==============*/
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = '𝐄𝐭𝐞𝐬𝐁𝐨𝐭𝐳 | 𝐛𝐲 𝐄𝐭𝐞𝐬' //Main Watermark
-global.wm2 = '𝐄𝐭𝐞𝐬'
-global.wm3 = 'Wangsaf-Botzラ | 𝐛𝐲 𝐄𝐭𝐞𝐬'
+global.wm = 'KINGBOTZ | 𝐛𝐲 king' //Main Watermark
+global.wm2 = 'King'
+global.wm3 = 'Wangsaf-Botzラ | 𝐛𝐲 King'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `𝐄𝐭𝐞𝐬𝐁𝐨𝐭𝐳| ʙʏ 𝐞𝐭𝐬 ${global.nameown}`
-global.author = 'ᴹᴿ᭄  Wangsaf Botz X By 𝐄𝐭𝐞𝐬' 
-global.packname = 'ᴹᴿ᭄ Dibuat oleh Etes-Botz'
+global.author = 'ᴹᴿ᭄  Wangsaf Botz X By King' 
+global.packname = 'ᴹᴿ᭄ Dibuat oleh King-Botz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
@@ -371,7 +371,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By Etesbotz'
+global.stickpack = 'By Kingbotz'
 global.stickauth = ` instagram : @znxphoenix`
 
 global.multiplier = 38 // The higher, The harder levelup
