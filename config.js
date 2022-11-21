@@ -36,15 +36,15 @@ global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '083892969926'
-global.povo = '083892969926'
-global.pgopay = '085797375014'
-global.ppulsa = '085797375014'
-global.ppulsa2 = '083892969926'
-global.psaweria = 'https://sociabuzz.com/aic'
+global.pdana = 'chatowner'
+global.povo = 'chatowner'
+global.pgopay = 'chatowner'
+global.ppulsa = 'chatowner'
+global.ppulsa2 = 'chatowner'
+global.psaweria = 'chatowner'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '0838929699266'
+global.nomorbot = '085797375014'
 global.nomorown = '6285797375014'
 global.namebot = 'King'
 global.nameown = 'KingBotz'
