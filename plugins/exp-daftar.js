@@ -104,8 +104,7 @@ const listMessage = {
 'footer':botdate,
 'buttons':[
 {'buttonId':'.menu','buttonText':{'displayText':'❍LIST MENU'},'type':1}, 
-{'buttonId':'.menu','buttonText':{'displayText':'▣ Mҽɳυ ▣'},'type':1},
-{'buttonId':'.salken','buttonText':{'displayText':'🎈Hαʅʅσ'},'type':1}
+{'buttonId':'.salken','buttonText':{'displayText':'❍ HALLO'},'type':1}
 ],
 'headerType':6}
     await conn.sendMessage(m.chat,buttonMessage, { quoted:m})
