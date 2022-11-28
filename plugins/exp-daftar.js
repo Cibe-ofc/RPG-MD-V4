@@ -103,6 +103,7 @@ const listMessage = {
 'caption':cap,
 'footer':botdate,
 'buttons':[
+{'buttonId':'.menu','buttonText':{'displayText':'❍LIST MENU'},'type':1}, 
 {'buttonId':'.menu','buttonText':{'displayText':'▣ Mҽɳυ ▣'},'type':1},
 {'buttonId':'.salken','buttonText':{'displayText':'🎈Hαʅʅσ'},'type':1}
 ],
