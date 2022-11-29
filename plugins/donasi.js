@@ -12,8 +12,8 @@ let handler = async (m, { conn, usedPrefix }) => {
   let vn = `https://github.com/saipulanuar/Api-Github/raw/main/audio/Donasiku.mp3`
   conn.sendButton(m.chat, `
 ┏━ꕥ〔 *Donasi • Dana* 〕ꕥ━⬣
-┃✾ Gopay  [085797375014]
-┃✾ Dana  [083892969926]
+┃✾ Gopay  [chat owner]
+┃✾ Dana  [chat owner]
 ┃✾ Saweria  [chat owner]
 ┗━━━━ꕥ
 ┏━━ꕥ〔 *NOTE* 〕ꕥ━⬣
