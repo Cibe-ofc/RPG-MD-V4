@@ -27,7 +27,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/znxphoenix'
+global.sig = 'https://instagram.com/lynxofcid'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/SaipulAnuar'
 global.sgc = 'https://chat.whatsapp.com/GduQSOuZ6p41HH8uQ4tFJD'
@@ -44,7 +44,7 @@ global.ppulsa2 = 'chatowner'
 global.psaweria = 'chatowner'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62857973750144'
+global.nomorbot = '6285797375014'
 global.nomorown = '6285797375014'
 global.namebot = 'KingBotz'
 global.nameown = 'King'
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'KINGBOTZ | 𝐛𝐲 king' //Main Watermark
-global.wm2 = 'King'
-global.wm3 = 'Wangsaf-Botzラ | 𝐛𝐲 King'
+global.wm = 'Kyvone | 𝐛𝐲 kyky' //Main Watermark
+global.wm2 = 'kyvone'
+global.wm3 = 'Wangsaf-Botzラ | 𝐛𝐲 Kyky'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `𝐄𝐭𝐞𝐬𝐁𝐨𝐭𝐳| ʙʏ 𝐞𝐭𝐬 ${global.nameown}`
-global.author = 'ᴹᴿ᭄  Wangsaf Botz X By King' 
-global.packname = 'ᴹᴿ᭄ Dibuat oleh King-Botz'
+global.author = 'ᴹᴿ᭄  Wangsaf Botz X By Kyky' 
+global.packname = 'ᴹᴿ᭄ Dibuat oleh Kykyvone'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
